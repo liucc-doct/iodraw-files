@@ -14,10 +14,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fxcS-c94enfvAfVh681x-5" value="&lt;div&gt;构建加权马尔科夫模型和灰色-加&lt;/div&gt;&lt;div&gt;权马尔科夫模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="130" width="210" height="60" as="geometry" />
+          <mxGeometry x="310" y="120" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fxcS-c94enfvAfVh681x-7" value="&lt;div&gt;收集相关数据整理分析并对数据进&lt;/div&gt;&lt;div&gt;行数据清洗&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="210" height="60" as="geometry" />
+          <mxGeometry x="310" y="200" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fxcS-c94enfvAfVh681x-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxcS-c94enfvAfVh681x-5" target="fxcS-c94enfvAfVh681x-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
