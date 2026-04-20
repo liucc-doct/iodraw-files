@@ -26,7 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fxcS-c94enfvAfVh681x-9" value="&lt;div&gt;收集相关数据整理分析并对数据进&lt;/div&gt;&lt;div&gt;行数据清洗&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="400" width="210" height="60" as="geometry" />
+          <mxGeometry x="310" y="280" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxcS-c94enfvAfVh681x-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxcS-c94enfvAfVh681x-7" target="fxcS-c94enfvAfVh681x-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
